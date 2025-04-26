@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DAL-reading\\DAL-reading.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DAL-reading\\DAL-reading.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DAL-reading\\DAL-reading.csproj",
+        "projectName": "DAL-reading",
+        "projectPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DAL-reading\\DAL-reading.csproj",
+        "packagesPath": "C:\\Users\\e3226\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DAL-reading\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\e3226\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DTO-classes\\DTO-classes.csproj": {
+                "projectPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DTO-classes\\DTO-classes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DTO-classes\\DTO-classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DTO-classes\\DTO-classes.csproj",
+        "projectName": "DTO-classes",
+        "projectPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DTO-classes\\DTO-classes.csproj",
+        "packagesPath": "C:\\Users\\e3226\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\פרקטיקוד\\פרקטיקוד 2\\DTO-classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\e3226\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

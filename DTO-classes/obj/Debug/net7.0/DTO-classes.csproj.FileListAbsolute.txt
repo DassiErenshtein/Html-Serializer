@@ -1,0 +1,17 @@
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\bin\Debug\net7.0\DTO-classes.exe
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\bin\Debug\net7.0\DTO-classes.deps.json
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\bin\Debug\net7.0\DTO-classes.runtimeconfig.json
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\bin\Debug\net7.0\DTO-classes.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\bin\Debug\net7.0\DTO-classes.pdb
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\DTO-classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\DTO-classes.AssemblyInfoInputs.cache
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\DTO-classes.AssemblyInfo.cs
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\DTO-classes.csproj.CoreCompileInputs.cache
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\DTO-classes.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\refint\DTO-classes.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\DTO-classes.pdb
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\DTO-classes.genruntimeconfig.cache
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\ref\DTO-classes.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\DTO-classes.csproj.AssemblyReference.cache
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\פרקטיקוד 2\DTO-classes\obj\Debug\net7.0\DTO-classes.csproj.CopyComplete
